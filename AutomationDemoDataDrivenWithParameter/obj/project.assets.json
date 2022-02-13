@@ -6817,11 +6817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tokun\\source\\repos\\AutomationDemoDataDrivenWithParameter\\AutomationDemoDataDrivenWithParameter\\AutomationDemoDataDrivenWithParameter.csproj",
+      "projectUniqueName": "C:\\Users\\tokun\\Source\\Repos\\DataDrivenWithParameterDemoProjecy\\AutomationDemoDataDrivenWithParameter\\AutomationDemoDataDrivenWithParameter.csproj",
       "projectName": "AutomationDemoDataDrivenWithParameter",
-      "projectPath": "C:\\Users\\tokun\\source\\repos\\AutomationDemoDataDrivenWithParameter\\AutomationDemoDataDrivenWithParameter\\AutomationDemoDataDrivenWithParameter.csproj",
+      "projectPath": "C:\\Users\\tokun\\Source\\Repos\\DataDrivenWithParameterDemoProjecy\\AutomationDemoDataDrivenWithParameter\\AutomationDemoDataDrivenWithParameter.csproj",
       "packagesPath": "C:\\Users\\tokun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tokun\\source\\repos\\AutomationDemoDataDrivenWithParameter\\AutomationDemoDataDrivenWithParameter\\obj\\",
+      "outputPath": "C:\\Users\\tokun\\Source\\Repos\\DataDrivenWithParameterDemoProjecy\\AutomationDemoDataDrivenWithParameter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tokun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6906,7 +6906,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
